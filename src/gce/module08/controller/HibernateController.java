@@ -1,7 +1,6 @@
 package gce.module08.controller;
 
 import gce.module08.model.Item;
-import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
 import org.hibernate.cfg.Configuration;
