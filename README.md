@@ -4,7 +4,7 @@
 This exercise uses a GUI (Graphical User Interface) that allows a user to create to-do items that are stored to and retrieved from a MySQL database.
 
 ## What does this program do?
-TAllows the user to view, add, edit, and delete to-do items. The to-do items are saved to a MySQL database, which is queried every time the application runs.
+Allows the user to view, add, edit, and delete to-do items. The to-do items are saved to a MySQL database, which is queried every time the application runs.
 
 ## System requirements
 The web application relies on Tomcat for deployment. Both use Hibernate and persistence to perform JDBC operations on a MySQL database.
